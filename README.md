@@ -1,4 +1,4 @@
-# SageMath Auto-Grader
+# SageMath Auto
 
 This repository provides a simple framework for grading student SageMath notebooks (.ipynb) using *Docker*.
 
